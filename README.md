@@ -1,5 +1,5 @@
 # pinn-london-traffic
-This repository contains a hybrid physics-informed neural network (PINN) and long short-term memory (LSTM) model designed to predict traffic flows in an intersection in London.
+This repository contains a hybrid physics-informed neural network (PINN) and long short-term memory (LSTM) model designed to predict traffic flows at an intersection in London.
 
 ## Repository Structure
 
