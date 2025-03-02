@@ -4,7 +4,7 @@ This repository contains a hybrid physics-informed neural network (PINN) and lon
 ## Repository Structure
 
 ### 1. `london_data/`
-Contains the organized data obtsined from the UTD19 dataset (https://utd19.ethz.ch/) used for training and testing the model.
+Contains the organized data obtained from the UTD19 dataset (https://utd19.ethz.ch/) used for training and testing the model.
 
 ### 2. `london_model.ipynb`
 Jupyter Notebook: Implementation of the PINN-LSTM model architecture.
